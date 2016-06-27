@@ -1,0 +1,4 @@
+Push to github
+Move these to github issues
+Tests with HTTPretty
+Use click
